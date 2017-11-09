@@ -13,6 +13,7 @@
 			<h5>quinto</h5>
 			<h6>se agrego el 6 h6</h6>
 			<h6>se agrego otro h6</h6>
+			<h1>se coloco a nuevo usuario</h1>
 			</div>
 		</body>
 		</html>		
